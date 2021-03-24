@@ -1,0 +1,8 @@
+# NodeJS modules folder
+/node_modules
+
+# Dist folder
+/lib
+
+# IDE files
+/.idea
