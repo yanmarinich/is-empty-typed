@@ -1,6 +1,6 @@
 {
-  "name": "yan.isempty",
-  "version": "0.0.1",
+  "name": "is-empty-typed",
+  "version": "0.0.3",
   "description": "Simple JS library that checks if value is an empty object, collection, string",
   "main": "lib/index.js",
   "types": "lib",
@@ -8,19 +8,17 @@
     "build": "tsc -p ."
   },
   "keywords": [
-    "isempty",
-    "is.empty",
+    "is-empty-typed",
     "is-empty",
+    "isempty",
     "empty",
     "check",
     "isnull",
     "isnone",
     "isundefined",
-    "isundefined",
     "is",
-    "is.none",
-    "is.null",
-    "is.none"
+    "is-none",
+    "is-null"
   ],
   "author": "Yan Marinich",
   "maintainers": [
@@ -31,9 +29,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yanmarinich/isempty/issues"
+    "url": "https://github.com/yanmarinich/is-empty-typed/issues"
   },
-  "homepage": "https://github.com/yanmarinich/isempty#readme",
+  "homepage": "https://github.com/yanmarinich/is-empty-typed#readme",
   "devDependencies": {
     "typescript": "^4.2.3"
   }
