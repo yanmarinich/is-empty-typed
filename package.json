@@ -1,6 +1,6 @@
 {
   "name": "is-empty-typed",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Simple JS library that checks if value is an empty object, collection, string",
   "main": "lib/index.js",
   "types": "lib",
@@ -9,13 +9,17 @@
   },
   "keywords": [
     "is-empty-typed",
+    "isemptytyped",
     "is-empty",
     "isempty",
     "empty",
     "check",
     "isnull",
+    "is-null",
     "isnone",
+    "is-none",
     "isundefined",
+    "is-undefined",
     "is",
     "is-none",
     "is-null"
